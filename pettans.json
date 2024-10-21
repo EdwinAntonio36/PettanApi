@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "num": "01",
+    "name": "[Furious Counterattack] Goku",
+    "type": "PHY",
+    "rarity": "Platinum",
+    "series": 10
+  },  {
+    "id": 2,
+    "num": "02",
+    "name": "[Rampaging Vicious Saiyans] Vegeta",
+    "type": "AGL",
+    "rarity": "Platinum",
+    "series": 10
+  },  {
+    "id": 3,
+    "num": "03",
+    "name": "[Raging Killer Move] Krillin",
+    "type": "PHY",
+    "rarity": "Gold",
+    "series": 10
+  },  {
+    "id": 4,
+    "num": "04",
+    "name": "[Point-Blank Flash] Super Saiyan 2 Gohan (Youth)",
+    "type": "AGL",
+    "rarity": "Gold",
+    "series": 10
+  },  {
+    "id": 5,
+    "num": "05",
+    "name": "[Fatal Resolve] Super Saiyan 2 Gohan (Youth)",
+    "type": "INT",
+    "rarity": "Gold",
+    "series": 10
+  },  {
+    "id": 6,
+    "num": "06",
+    "name": "[Systematic Victory] Perfect Cell",
+    "type": "STR",
+    "rarity": "Gold",
+    "series": 10
+  },  {
+    "id": 7,
+    "num": "07",
+    "name": "[Explosive Super Elite] Vegeta",
+    "type": "PHY",
+    "rarity": "Gold",
+    "series": 10
+  },  {
+    "id": 8,
+    "num": "08",
+    "name": "[Horrific Super Energy] Full Power Boujack",
+    "type": "STR",
+    "rarity": "Gold",
+    "series": 10
+  },  {
+    "id": 9,
+    "num": "09",
+    "name": "[Strenuous Struggle] Goku (Kaioken)",
+    "type": "TEQ",
+    "rarity": "Silver",
+    "series": 10
+  },  {
+    "id": 10,
+    "num": "10",
+    "name": "[Rapid Growth] Super Trunks",
+    "type": "INT",
+    "rarity": "Silver",
+    "series": 10
+  },  {
+    "id": 11,
+    "num": "11",
+    "name": "[Oppressive Tyrant] Boujack",
+    "type": "TEQ",
+    "rarity": "Silver",
+    "series": 10
+  },  {
+    "id": 12,
+    "num": "12",
+    "name": "[Blazing Pride] Vegeta",
+    "type": "PHY",
+    "rarity": "Silver",
+    "series": 10
+  }
+
+]
+

@@ -43,12 +43,10 @@ Todos los controladores incluyen validaciones exhaustivas para los datos de entr
     git clone https://github.com/EdwinAntonio36/PettanApi.git
 
 2. Instala las dependencias de node.js:
-   Ejecuta el siguiente comando en la terminal con la ruta donde se guardo el proyecto:
 
     npm install
     
-4. Construye y levanta los contenedores usando docker-compose:
-   Ejecuta los siguientes comandos en la terminal con la ruta donde se guardo el proyecto:
+3. Construye y levanta los contenedores usando docker-compose:
 
     docker-compose build
 
@@ -64,5 +62,9 @@ Para verificar los endpoint y la documentación de Swagger:
 http://localhost:3000/swaggerIndex
 
 # Para detener los contenedores:
-Ejecuta el siguiente comando en la terminal con la ruta donde se guardo el proyecto:
 docker-compose down
+
+
+
+
+
