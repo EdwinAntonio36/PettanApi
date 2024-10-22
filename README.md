@@ -42,11 +42,14 @@ Todos los controladores incluyen validaciones exhaustivas para los datos de entr
 
     git clone https://github.com/EdwinAntonio36/PettanApi.git
 
-2. Ejecuta el siguiente comando en la terminal para instalar las dependencias de node.js:
+   O
+   Descarga los archivos directamente en la GUI de Github con el link: https://github.com/EdwinAntonio36/PettanApi 
+
+3. Ejecuta el siguiente comando en la terminal para instalar las dependencias de node.js:
 
     npm install
     
-3. Ejecuta los siguientes comandos para construir y levantar los contenedores usando docker-compose:
+4. Ejecuta los siguientes comandos para construir y levantar los contenedores usando docker-compose:
 
     docker-compose build
 
