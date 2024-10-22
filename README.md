@@ -46,7 +46,7 @@ Todos los controladores incluyen validaciones exhaustivas para los datos de entr
 
     npm install
     
-3. Ejecurta los sisguientes comandos para construir y levantar los contenedores usando docker-compose:
+3. Ejecuta los siguientes comandos para construir y levantar los contenedores usando docker-compose:
 
     docker-compose build
 
