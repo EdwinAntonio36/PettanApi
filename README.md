@@ -38,15 +38,15 @@ Todos los controladores incluyen validaciones exhaustivas para los datos de entr
 
 ## Para la instalación de la API
 
-1. Clona este repositorio en el directorio de tu preferencia:
+1. Ejecuta el siguiente comando para clonar este repositorio en el directorio de tu preferencia:
 
     git clone https://github.com/EdwinAntonio36/PettanApi.git
 
-2. Instala las dependencias de node.js:
+2. Ejecuta el siguiente comando en la terminal para instalar las dependencias de node.js:
 
     npm install
     
-3. Construye y levanta los contenedores usando docker-compose:
+3. Ejecurta los sisguientes comandos para construir y levantar los contenedores usando docker-compose:
 
     docker-compose build
 
@@ -61,7 +61,7 @@ Para verificar los endpoint y la documentación de Swagger:
 
 http://localhost:3000/swaggerIndex
 
-# Para detener los contenedores:
+# Ejecuta el siguiente comando para detener los contenedores:
 docker-compose down
 
 
