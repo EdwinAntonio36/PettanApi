@@ -363,9 +363,9 @@ cards.put('/:id', async (req, res) => {
  *             $ref: '#/components/schemas/Pettan'
  *     responses:
  *       200:
- *         description: Pokémon actualizado exitosamente.
+ *         description: Carta Pettan actualizado exitosamente.
  *       404:
- *         description: Pokémon no encontrado.
+ *         description: Carta Pettan no encontrado.
  *       500:
  *         description: Error interno del servidor.
  */
